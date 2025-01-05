@@ -67,7 +67,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"    	
 ---
-Here's a summary of some projects I have worked. Please feel free to contact me about any of them. 
+Here's a summary of some projects I have worked on. Please feel free to contact me about any of them. 
 
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row2" type="left" %}
