@@ -38,6 +38,7 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
   <figcaption>At a Basketball Tournament</figcaption>
 </figure> 
+ <br />
 <figure style="width: 25%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Rugby.jpg" alt="">
   <figcaption>At a Rugby Match</figcaption>
