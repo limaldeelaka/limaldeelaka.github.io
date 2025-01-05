@@ -28,7 +28,7 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
 	Kingswood College, Sri Lanka (2013-2014)
 
 -	English Language Proficiency <br />
-	IELTS Overall  7.5 Listening  8.5 Reading  8.0 Writing  6.5 Speaking  7.0 <br />
+	IELTS Overall  7.5 | Listening  8.5 | Reading  8.0 | Writing  6.5 | Speaking  7.0 <br />
 	[Result Sheet](/assets/docs/ielts.pdf)
 	
 
