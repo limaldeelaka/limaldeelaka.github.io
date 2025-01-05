@@ -38,6 +38,10 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
   <figcaption>At a Basketball Tournament</figcaption>
 </figure> 
+<figure style="width: 25%" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Rugby.jpg" alt="">
+  <figcaption>At a Rugby Match</figcaption>
+</figure> 
 
 I was born in Sri Lanka and completed my secondary education at Kingswood College, Kandy. I achieved  20<sup>th</sup> place in the Kandy district and 126<sup>th</sup> in Sri Lanka out of 30,000 candidates in the GCE Advanced Level examination, the university entrance examination in Sri Lanka. During this time, I actively participated in extracurricular activities such as the Astronomical Society and basketball.
 
