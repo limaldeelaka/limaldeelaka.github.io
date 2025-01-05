@@ -5,11 +5,11 @@ classes: wide
 header:
     overlay_image: "/assets/images/overley-image.jpg"
 feature_row1:
-  - image_path: "/assets/projects/DLforHU.png"
-    alt: "DLforHU"
-    title: "DL for Hyperspectral Unmxing"
-    excerpt: "Deep learning based algorithms are developed to extract endmembers and abundances from a hyperspectral image effectively."
-    url: "https://github.com/sanjayaherath/DL-for-HU"
+  - image_path: "/assets/projects/1 Metal 3D Printing/Coil Assembly.png"
+    alt: "Coil Assembly"
+    title: "Magneto-Hydrodynamic Experiment for Metal 3D Printing"
+    excerpt: "Designed a compact metal extruder that melts metal via induction heating and extrudes it using magneto-hydrodynamics (Lorentz force)."
+    url: "/assets/projects/1 Metal 3D Printing/Brief.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
    
