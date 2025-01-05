@@ -10,29 +10,25 @@ header:
 
 <figure style="width: 25%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/finalday.jpg" alt="">
-  <figcaption>  final day as an undergrad.</figcaption>
+  <figcaption>  My Graduation Day</figcaption>
 </figure> 
-I'm a graduate teaching assistant at Department of Electrical and Computer Engineering, University of Maryland. 
+I'm a lecturer in Engineering at Weston College, United Kingdom. 
 
-### About my research
 
-My research interests are on signal processing, machine learning, and computer vision. Read more about my research [here](/research/).
 
 ### Education
 
--	MS/PhD in Electrical and Computer Engineering <br />
-	University of Maryland, College Park, USA. (2021-Present)
 
 -   Bachelor of Science (Electrical and Electronic Engineering) <br />
 	GPA 4.0/4.0 Top of the batch(/423) [Transcript](/assets/docs/Transcript.pdf) <br />
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
 -	G.C.E. Advanced Level (Mathematics, Physics, and Chemistry)	<br />
-	Ranked in the TOP 20 overall in the country	<br />
+	Ranked in the TOP 20 overall in the Disctritc	[AL Certificate](/assets/docs/AL Certificate.pdf)<br />
 	Kingswood College, Sri Lanka (2013-2014)
 
 -	English Language Proficiency <br />
-	IELTS Overall  8.0 Listening  9.0 Reading  8.5 Writing  6.5 Speaking  7.0 <br />
+	IELTS Overall  7.5 Listening  8.5 Reading  8.0 Writing  6.5 Speaking  7.0 <br />
 	[Result Sheet](/assets/docs/ielts.pdf)
 	
 
@@ -40,15 +36,16 @@ My research interests are on signal processing, machine learning, and computer v
 
 <figure style="width: 25%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
-  <figcaption>volunteering at a workshop</figcaption>
+  <figcaption>At a Basketball Tournament</figcaption>
 </figure> 
 
-I was born in Lincoln, NE. My family moved to Sri Lanka when I was about three years old. I completed my secondary education in Kingswood College, Kandy. I came in at 2<sup>nd</sup> place in the Kandy district and 16<sup>th</sup> in Sri Lanka in the GCE A/L examination which is the entrance examination for Sri Lankan universities. I actively engaged in various extra-curricular activities such as the Astronomical Society and chess.
+I was born in Sri Lanka and completed my secondary education at Kingswood College, Kandy. I achieved  20<sup>th</sup> place in the Kandy district and 126<sup>th</sup> in Sri Lanka out of 30,000 candidates in the GCE Advanced Level examination, the university entrance examination in Sri Lanka. During this time, I actively participated in extracurricular activities such as the Astronomical Society and basketball.
 
-During my time at my undergraduate institute, I was fortunate enough to be selected to the Electrical and Electronic Engineering specialization program which only accepts the top 5 in the general program. While pursuing my degree I started focusing more on signal processing and machine learning, and this led to choosing my Final Year Research Project in a related field. I was blessed to work with several brilliant supervisors who motivated me on pursuing higher studies.
+At the University of Peradeniya, I was honored with the <b>Best Performance in General Programme of Engineering (2015)</b> award, presented to the student with the highest GPA in the batch. Motivated by my passion for automobiles and design, I chose to specialize in Mechanical Engineering, graduating with a First Class Honors degree and an exceptional GPA of 3.9/4.0.
 
-Currently, I am doing my graduate studies at University of Maryland, College Park at the Department of Electrical and Computer Engineering. I am also working as a Graduate Teaching Assistant at the same department.
+In addition to my academic success, I represented my university in competitive sports, playing for both the basketball and rugby teams, for which I was awarded University Colours. These experiences helped me develop valuable skills in teamwork and leadership.
 
-I enjoy teaching very much. I volunteered as an intructor in my final year to conduct labaratory classes. Also I have partcipated in several workshops conducted for school childeren in rural areas. I believe that education I recieved had a strong influence on my success and I am passionate on contributing back to the society.   
+Currently, I am a Lecturer in Engineering at Weston College, where I teach up to 3rd-year Higher Education engineering apprentices. Furthermore, I have participated in workshops for school children in rural areas, inspired by a strong desire to give back to the community that has supported my journey.
 
-I love being outdoors and hiking with my friends. In my leisure time, I like to read and play video games.
+
+In my leisure time, I enjoy being outdoors and hiking with friends. I also like watching documentaries and playing video games to relax.
