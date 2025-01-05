@@ -18,16 +18,16 @@ feature_row2:
     alt: "Full Assembly"
     title: "Seeding and Fertilizing Machine"
     excerpt: "Mechanize the seeding and fertilizing procedure to improve efficiency and productivity."
-    url: "/assets/projects/2 Seeding Machine/Brief 2.png"
+    url: "/assets/projects/2 Seeding Machine/Brief 2.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: "/assets/projects/childwatch.png"
-    alt: "watch"
-    title: "Child-Watch"
-    excerpt: "A watch was developed for child-parent communication."
-    url: "https://github.com/sanjayaherath/Child-Watch"
+  - image_path: "/assets/projects/3 Comb/Comb.png"
+    alt: "Comb"
+    title: "Antique Comb Design Restoration"
+    excerpt: "Revive an antique comb design that allows the user to insert a blade for trimming beard and hair."
+    url: "/assets/projects/3 Comb/Brief 3.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
