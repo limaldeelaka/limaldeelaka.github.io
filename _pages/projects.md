@@ -48,7 +48,24 @@ feature_row5:
     url: "/assets/projects/5 Hydraulic Press/Brief 5.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
+
+feature_row6:
+  - image_path: "/assets/projects/6 Screw Turbine/Turbine.jpg"
+    alt: "Turbine"
+    title: "CFD Simulation of a Screw Turbine"
+    excerpt: "Evaluate and compare the efficiency of various screw turbine configurations under different flow rates."
+    url: "/assets/projects/6 Screw Turbine/Report 2.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
+
+feature_row7:
+  - image_path: "/assets/projects/7 Wave Energy/Wave.jpg"
+    alt: "Wave"
+    title: "Testing of Hull Reservoir Wave Energy Device"
+    excerpt: "Accurately capture and analyze experimental data for enhanced system understanding and performance evaluation."
+    url: "/assets/projects/7 Wave Energy/Report 3.pdf"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    	
 ---
 Here's a summary of some projects I've been working on. Please feel free to contact me about any of them. 
 
