@@ -32,11 +32,11 @@ feature_row3:
     btn_class: "btn--primary"
 
 feature_row4:
-  - image_path: "/assets/projects/locker.jpg"
-    alt: "locker"
-    title: "Password Protected Locker"
-    excerpt: "A password protected locker was developed from scratch using pic assembly on pic16f673A."
-    url: "https://github.com/sanjayaherath/Password-Protected-Locker"
+  - image_path: "/assets/projects/4 Hydrogen Fuel Cell/Cell.png"
+    alt: "Cell"
+    title: "Hydrogen Fuel Cell"
+    excerpt: "Develop a self-contained fuel cell that stores its own hydrogen, eliminating separate pressurized tanks and minimizing efficiency loss caused by pressure drops."
+    url: "/assets/projects/4 Hydrogen Fuel Cell/Report.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
