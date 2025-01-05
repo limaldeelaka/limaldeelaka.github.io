@@ -38,14 +38,14 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
   <figcaption>At a Basketball Tournament</figcaption>
 </figure> 
- <br />
+
+
+I was born in Sri Lanka and completed my secondary education at Kingswood College, Kandy. I achieved  20<sup>th</sup> place in the Kandy district and 126<sup>th</sup> in Sri Lanka out of 30,000 candidates in the GCE Advanced Level examination, the university entrance examination in Sri Lanka. During this time, I actively participated in extracurricular activities such as the Astronomical Society and basketball.
+
 <figure style="width: 25%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Rugby.jpg" alt="">
   <figcaption>At a Rugby Match</figcaption>
 </figure> 
-
-I was born in Sri Lanka and completed my secondary education at Kingswood College, Kandy. I achieved  20<sup>th</sup> place in the Kandy district and 126<sup>th</sup> in Sri Lanka out of 30,000 candidates in the GCE Advanced Level examination, the university entrance examination in Sri Lanka. During this time, I actively participated in extracurricular activities such as the Astronomical Society and basketball.
-
 At the University of Peradeniya, I was honored with the <b>Best Performance in General Programme of Engineering (2015)</b> award, presented to the student with the highest GPA in the batch at the end of the first year. Motivated by my passion for automobiles and design, I chose to specialize in Mechanical Engineering, graduating with a First Class Honors degree and an exceptional GPA of 3.9/4.0.
 
 In addition to my academic success, I represented my university in competitive sports, playing for both the basketball and rugby teams, for which I was awarded University Colours. These experiences helped me develop valuable skills in teamwork and leadership.
