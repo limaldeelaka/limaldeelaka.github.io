@@ -14,11 +14,11 @@ feature_row1:
     btn_class: "btn--primary"
    
 feature_row2:
-  - image_path: "/assets/projects/oil.png"
-    alt: "oil"
-    title: "MSI for food quality assessment"
-    excerpt: "An in house developed MSI system to assess the coconut oil quality."
-    url: "https://github.com/sanjayaherath/MSI-for-oil-quality"
+  - image_path: "/assets/projects/2 Seeding Machine/Full Assembly.png"
+    alt: "Full Assembly"
+    title: "Seeding and Fertilizing Machine"
+    excerpt: "Mechanize the seeding and fertilizing procedure to improve efficiency and productivity."
+    url: "/assets/projects/2 Seeding Machine/Brief 2.png"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
