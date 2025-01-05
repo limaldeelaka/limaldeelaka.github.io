@@ -24,7 +24,7 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
     University of Peradeniya, Sri Lanka (2015 - 2020)
 	
 -	G.C.E. Advanced Level (Mathematics, Physics, and Chemistry)	<br />
-	Ranked in the TOP 20 overall in the Disctritc	[AL Certificate](/assets/docs/AL Certificate.pdf)<br />
+	Ranked in the TOP 20 overall in the district	[AL Certificate](/assets/docs/AL Certificate.pdf)<br />
 	Kingswood College, Sri Lanka (2013-2014)
 
 -	English Language Proficiency <br />
