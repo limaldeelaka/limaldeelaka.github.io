@@ -9,7 +9,7 @@ header:
 
 
 <figure style="width: 25%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/finalday.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/finalday.png" alt="">
   <figcaption>  My Graduation Day</figcaption>
 </figure> 
 I'm a lecturer in Engineering at Weston College, United Kingdom. 
@@ -35,7 +35,7 @@ I'm a lecturer in Engineering at Weston College, United Kingdom.
 ### A bit about myself 
 
 <figure style="width: 25%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.jpg" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/seminar.png" alt="">
   <figcaption>At a Basketball Tournament</figcaption>
 </figure> 
 
