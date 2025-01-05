@@ -41,11 +41,11 @@ feature_row4:
     btn_class: "btn--primary"
 
 feature_row5:
-  - image_path: "/assets/projects/colorsound.png"
-    alt: "colorsound"
-    title: "Color to Sound Mapping"
-    excerpt: "A device developed to map colour to sound to assist the visually impaired people"
-    url: "https://github.com/sanjayaherath/Color-to-Sound-Mapping"
+  - image_path: "/assets/projects/5 Hydraulic Press/Frame.png"
+    alt: "Frame"
+    title: "Hydraulic Press Frame"
+    excerpt: "Increase the hydraulic press capacity from 20 tons to 40 tons by redesigning and reinforcing the frame."
+    url: "/assets/projects/5 Hydraulic Press/Brief 5.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
     
