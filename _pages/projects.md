@@ -9,9 +9,10 @@ feature_row1:
     alt: "Coil Assembly"
     title: "Magneto-Hydrodynamic Experiment for Metal 3D Printing"
     excerpt: "Designed a compact metal extruder that melts metal via induction heating and extrudes it using magneto-hydrodynamics (Lorentz force)."
-    url: "/assets/projects/1 Metal 3D Printing/Brief.pdf" target="_blank"
+    url: "/assets/projects/1 Metal 3D Printing/Brief.pdf" 
     btn_label: "Read More"
     btn_class: "btn--primary"
+	target="_blank"
    
 feature_row2:
   - image_path: "/assets/projects/2 Seeding Machine/Full Assembly.png"
