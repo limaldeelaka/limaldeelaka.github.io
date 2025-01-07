@@ -39,6 +39,9 @@ feature_row4:
     url: "/assets/projects/4 Hydrogen Fuel Cell/Brief 4.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
+	 url: "/assets/projects/4 Hydrogen Fuel Cell/Report.pdf"
+    btn_label: "Report"
+    btn_class: "btn--primary"
 
 feature_row5:
   - image_path: "/assets/projects/5 Hydraulic Press/Frame.png"
@@ -47,9 +50,6 @@ feature_row5:
     excerpt: "Increase the hydraulic press capacity from 20 tons to 40 tons by redesigning and reinforcing the frame."
     url: "/assets/projects/5 Hydraulic Press/Brief 5.pdf"
     btn_label: "Read More"
-    btn_class: "btn--primary"
-	url: "/assets/projects/5 Hydraulic Press/Report.pdf"
-    btn_label: "Report"
     btn_class: "btn--primary"
 
 feature_row6:
