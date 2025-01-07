@@ -12,7 +12,7 @@ feature_row1:
     url: "/assets/projects/1 Metal 3D Printing/Brief.pdf" 
     btn_label: "Read More"
     btn_class: "btn--primary"
-	target="_blank"
+
    
 feature_row2:
   - image_path: "/assets/projects/2 Seeding Machine/Full Assembly.png"
