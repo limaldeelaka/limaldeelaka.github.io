@@ -14,3 +14,29 @@ Hello and welcome! I'm Limal, a Lecturer in Engineering. This is my personal web
 </p>
 
 
+<div class="slideshow-container">
+  <div class="slide fade">
+    <img src="/assets/images/projects/1 Metal 3D Printing/Coil Assembly.png" alt="Image 1" style="width:100%">
+  </div>
+  <div class="slide fade">
+    <img src="/assets/images/projects/2 Metal Seeding Machine/Full Assembly.png" alt="Image 2" style="width:100%">
+  </div>
+  <div class="slide fade">
+    <img src="/assets/images/projects/3 Comb/Comb.png" alt="Image 3" style="width:100%">
+  </div>
+
+  <!-- Navigation buttons -->
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<script>
+let slideIndex = 0;
+function showSlides() {
+  const slides = document.querySelectorAll(".slide");
+  slides.forEach((slide, index) => slide.style.display = index === slideIndex ? "block" : "none");
+  slideIndex = (slideIndex + 1) % slides.length;
+  setTimeout(showSlides, 3000); // Change slide every 3 seconds
+}
+showSlides();
+</script>
