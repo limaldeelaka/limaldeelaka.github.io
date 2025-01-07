@@ -48,6 +48,9 @@ feature_row5:
     url: "/assets/projects/5 Hydraulic Press/Brief 5.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
+	url: "/assets/projects/5 Hydraulic Press/Report.pdf"
+    btn_label: "Report"
+    btn_class: "btn--primary"
 
 feature_row6:
   - image_path: "/assets/projects/6 Screw Turbine/Turbine.jpg"
