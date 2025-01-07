@@ -36,7 +36,7 @@ feature_row4:
     alt: "Cell"
     title: "Hydrogen Fuel Cell"
     excerpt: "Develop a self-contained fuel cell that stores its own hydrogen, eliminating separate pressurized tanks and minimizing efficiency loss caused by pressure drops."
-    url: "/assets/projects/4 Hydrogen Fuel Cell/Report.pdf"
+    url: "/assets/projects/4 Hydrogen Fuel Cell/Brief 4.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
@@ -54,7 +54,7 @@ feature_row6:
     alt: "Turbine"
     title: "CFD Simulation of a Screw Turbine"
     excerpt: "Evaluate and compare the efficiency of various screw turbine configurations under different flow rates."
-    url: "/assets/projects/6 Screw Turbine/Report 2.pdf"
+    url: "/assets/projects/6 Screw Turbine/Brief 6.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"    
 
@@ -63,7 +63,7 @@ feature_row7:
     alt: "Wave"
     title: "Testing of Hull Reservoir Wave Energy Device"
     excerpt: "Accurately capture and analyze experimental data for enhanced system understanding and performance evaluation."
-    url: "/assets/projects/7 Wave Energy/Report 3.pdf"
+    url: "/assets/projects/7 Wave Energy/Brief 7.pdf"
     btn_label: "Read More"
     btn_class: "btn--primary"    	
 ---
