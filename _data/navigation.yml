@@ -10,4 +10,4 @@ main:
     url: /projects/
   - title: "CV"
     url: /assets/docs/CV.pdf
-    target: "_blank"
+    target: _blank
