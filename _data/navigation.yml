@@ -10,3 +10,5 @@ main:
     url: /projects/
   - title: "CV"
     url: /assets/docs/CV.pdf
+  - title: "CPD"
+    url: /assets/docs/CPD.pdf
